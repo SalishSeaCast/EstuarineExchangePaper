@@ -32,3 +32,19 @@ To Victoria Sill from Point Roberts and Gulf Island Transect (also from Puget an
 ### Data Processing ###
 
 Transport.ipynb : extracting the flux, age, position, salinity and temperature information from the individual Ariane files and storing it in csv files for analysis and plotting.
+
+Transport-Analysis.ipynb : determining the phase shift to match the forward and backward fluxes.  Much preliminary analysis of the fluxes.  Also produces the transport figure. (Figure 4 in the revision)
+
+CalculateDensity-Hindcast.ipynb : calculate the density difference between Point Roberts transect and Victoria Sill
+
+CalculateTides.ipynb : calculate the tides in Boundary Pass
+
+CalculateSSH.ipynb : calculate the SSH at Neah Bay
+
+CalculateWind.ipynb : calculate the Sand Head winds
+
+SoGRunoff.ipynb : calculate the river flux into the SoG
+
+### Figures ###
+
+Figure 4: Transport-Analysis.ipynb
