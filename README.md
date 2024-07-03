@@ -3,6 +3,8 @@ Namelists, postprocessing and analysis scripts for "Controls on Exchange through
 
 ### Ariane Runs ###
 
+Namelists in directory Namelists see subdirectory names below.
+
 From Victoria to Point Roberts and Gulf Island Transect (also to Puget and Discovery)
    Run forward
    Directory: FullSouth

@@ -1,0 +1,7 @@
+ 1   178   178   235   302     1    40 "VictoriaSill"
+ 2   262   309  -387  -387     1    40 "PointRoberts"
+ 3   217   220  -387  -387     1    40 "CentralGulfIs"
+ 3   236   253  -387  -387     1    40 "CentralGulfIs"
+ 4   207   262   221   221     1    40 "PugetSound"
+ 5  -302  -302   247   248     1    40 "Discovery"
+ 6     1   398     1   898     0     0 "Surface"
