@@ -1,6 +1,27 @@
 # EstuarineExchangePaper
 Namelists, postprocessing and analysis scripts for "Controls on Exchange through a Tidal Mixing Hotspot at an Estuary Constriction"
 
+[![DOI](https://zenodo.org/badge/823764190.svg)](https://zenodo.org/doi/10.5281/zenodo.12712924)
+
+reStructuredText
+
+.. image:: https://zenodo.org/badge/823764190.svg
+  :target: https://zenodo.org/doi/10.5281/zenodo.12712924
+
+HTML
+
+<a href="https://zenodo.org/doi/10.5281/zenodo.12712924"><img src="https://zenodo.org/badge/823764190.svg" alt="DOI"></a>
+
+Image URL
+
+https://zenodo.org/badge/823764190.svg
+
+Target URL
+
+https://zenodo.org/doi/10.5281/zenodo.12712924
+
+
+
 ### Ariane Runs ###
 
 Namelists in directory Namelists see subdirectory names below.
