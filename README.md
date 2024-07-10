@@ -45,6 +45,43 @@ CalculateWind.ipynb : calculate the Sand Head winds
 
 SoGRunoff.ipynb : calculate the river flux into the SoG
 
+### Other Analyses ###
+
+Mixing_vs_advection-PtRoberts.ipynb, Mixing_vs_advection-mycross.ipynb : estimate impact of random walk on particle speeds through the mixing region, from SoG and from Vic Sill, respectively
+
+Age_Analysis.ipynb : analyzing age of loops, efflux, reflux
+
+Analyze_Lost_Particles.ipynb : collate statistics of "lost" particles
+
+CalculateTides-Broader.ipynb : look at the tidal currents through the depth, maximum during the day and at other points
+
+MeanVelocitiesAllMonths.ipynb : calculate the NEMO averaged velocities across the Point Roberts transect
+
 ### Figures ###
 
-Figure 4: Transport-Analysis.ipynb
+Figure 1: Maps-Cartopy.ipynb
+
+Figure 2: a) Ariane_Locations.ipynb
+          b) Maps-Cartopy.ipynb
+
+Figure 4: a) & b) Similar to loadPSFCTD.ipynb
+          c-j) PlotVENUSModelComparisons.ipynb
+
+Figure 5: Transport-Analysis.ipynb
+
+Figure 6: Ancillary.ipynb
+
+Figure 7: FroudeFit.ipynb
+
+Figure 8: FluxBySalt.ipynb
+
+Figure 9: FluxCrossSections.ipynb
+
+Figure 10: FluxCrossSections_Vic.ipynb
+
+Figure 11: FluxCrossSections.ipynb
+
+Figure 12: Final_Figure_FluxCrossSections.ipynb
+
+Figure A1: BarotropicBaroclinicMeanderSaltFlux.ipynb
+           BarotropicBaroclinicMeanderSaltFlux-Vic.ipynb
